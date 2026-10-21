@@ -1,6 +1,6 @@
 # solid-spoon
 
-The brain's "stack". Whatever that means. I'm not a biologist. I'm a secure Software Engineer!
+Just type in some words and see what happens :)
 
 ## Getting Started
 
